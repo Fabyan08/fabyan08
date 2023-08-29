@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br>
   
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KarMint26&style=flat-square&color=blue" alt="komarev"/>  
+  <img src="https://komarev.com/ghpvc/?username=Fabyan08&style=flat-square&color=blue" alt="komarev"/>  
 </div>
 
 <br>
