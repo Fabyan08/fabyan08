@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br>
 
 <h1 align="center"> Hi there 👋 </h1>
-<h3 align="center"> I'am Front End Developer Enthusiast <h3>
+<h3 align="center"> I'am Fullstack Web Developer & UI UX Design Enthusiast <h3>
   
 <!--<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -50,15 +50,15 @@ Here are some ideas to get you started:
 ---
   
 ### :man_technologist: About Me :
-I am a Fullstack Web Developer & UI UX Design Enthusiast <img src="https://media.giphy.com/media/3rTUAjzVs1eEtGpkJp/giphy.gif" width="30"> from Indonesia.
+I am Fullstack Web Developer & UI UX Design Enthusiast. <img src="https://media.giphy.com/media/3rTUAjzVs1eEtGpkJp/giphy.gif" width="30"> from Indonesia.
   
-- 🦅: I’m a student majoring in informatics engineering who is very interested in the world of programming.
+- 🦅: Best software Engineering graduates who have experience in programming. Have good understanding of website development and database management. Skilled in PHP and Javascript programming language and familiar with HTML, CSS as website body with SQL as a database. Have experience working as freelance.
 
-- :seedling: Exploring Front End Developer Technology and Tools.
+- :seedling: Exploring Fullstack Developer and UI UX Technology, also their Tools.
 
-- :zap: In my free time, I learn about more technology in front end ecosystem.
+- :zap: In my free time, I learn about more technology that will useful fr me.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-karel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karel-trisnanto-utomo-8564ba259/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-karel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabyan-yastika-permana/)
   
 ---
 
