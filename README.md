@@ -1,5 +1,5 @@
 <!--
-**KarMint26/KarMint26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fabyan08/Fabyan08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" >
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 </div>
 
 <br>
