@@ -58,7 +58,7 @@ I am Fullstack Web Developer & UI UX Design Enthusiast. <img src="https://media.
 
 - :zap: In my free time, I learn about more technology that will useful fr me.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-karel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabyan-yastika-permana/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Fabyan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabyan-yastika-permana/)
   
 ---
 
@@ -71,8 +71,8 @@ I am Fullstack Web Developer & UI UX Design Enthusiast. <img src="https://media.
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
